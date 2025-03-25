@@ -70,6 +70,11 @@ Stop the Containers
 To stop the containers, run:
 
       docker-compose down
+      
+OR
+
+      docker-compose -f file.yaml down
+
 
 **📝 NOTE
 📌 All required files and scripts are uploaded in the same repository.**
